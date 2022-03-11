@@ -1,3 +1,3 @@
-#### Ethereum
+# Ethereum
 
-## History
+### History
